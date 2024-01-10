@@ -60,7 +60,7 @@ export const MernProjectData = [
   },
   {
     img: weather,
-    title: "Netflix clone",
+    title: "Weather Application",
     techstack: "HTML,CSS,Javascript",
     live: "https://anushree1903.github.io/netflix-clone/",
     github: "https://github.com/anushree1903/netflix-clone",

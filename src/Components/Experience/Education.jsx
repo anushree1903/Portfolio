@@ -19,12 +19,12 @@ const Education = () => {
             <TimelineIcon className="p-0">
               <Avatar
                 size="lg"
-                src="https://upload.wikimedia.org/wikipedia/en/1/14/Marwadi_University_logo.png"
+                src="https://www.ksit.ac.in/img/leftlogo.png"
                 alt="user 1"
               />
             </TimelineIcon>
             <Typography variant="h5" color="blue-gray">
-              Marwadi Education Foundation's Group of Institutions
+              K.S.Institute of Technology
             </Typography>
           </TimelineHeader>
           <TimelineBody className="pb-14">
@@ -41,19 +41,47 @@ const Education = () => {
             <TimelineIcon className="p-0">
               <Avatar
                 size="lg"
-                src="https://yt3.googleusercontent.com/ytc/AGIKgqPH81zkbo4ZGDvdP3jgPo56PgO9-tJq-B6mGPanEA=s900-c-k-c0x00ffffff-no-rj"
+                src="https://rnsfgc.edu.in/wp-content/uploads/2020/02/FGCLOGO.png"
                 alt="user 2"
               />
             </TimelineIcon>
+            
+
             <Typography variant="h5" color="blue-gray">
-              Bihar State Education Board
+              RNS Pre University College
             </Typography>
           </TimelineHeader>
           <TimelineBody className="pb-8">
             <Typography color="gray" className="font-semibold text-gray-600">
               Higher Secondary School, Science <br /> 2018 - 2020
             </Typography>
+            
           </TimelineBody>
+          
+        </TimelineItem>
+        <TimelineItem>
+          <TimelineHeader>
+            <TimelineConnector />
+            <TimelineIcon className="p-0">
+              <Avatar
+                size="lg"
+                src="https://carmelschool.edu.in/_next/static/images/carmel-intrologo-99510a416e0cd9cb6952bd3c97d27973.png.webp"
+                alt="user 2"
+              />
+            </TimelineIcon>
+            
+
+            <Typography variant="h5" color="blue-gray">
+              Carmel School
+            </Typography>
+          </TimelineHeader>
+          <TimelineBody className="pb-8">
+            <Typography color="gray" className="font-semibold text-gray-600">
+              X Grade,  <br /> 2018 
+            </Typography>
+            
+          </TimelineBody>
+          
         </TimelineItem>
       </Timeline>
     </div>
