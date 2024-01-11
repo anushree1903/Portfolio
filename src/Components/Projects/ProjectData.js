@@ -6,6 +6,7 @@ import dashboard from "./ProjectImg/dashboard.png";
 import clone from "./ProjectImg/clone.png";
 import todo from "./ProjectImg/todo.png";
 import form from "./ProjectImg/form.png";
+import weather from "./ProjectImg/weather.png";
 
 
 export const MernProjectData = [
@@ -27,7 +28,7 @@ export const MernProjectData = [
     img: Crypto,
     title: "Crypto-App",
     techstack: "React, Axios, TailwindCSS",
-    live: "https://wonderful-crumble-05b236.netlify.app/exchanges",
+    live: "https://wonderful-crumble-05b236.netlify.app/",
     github: "https://github.com/anushree1903/My_Crypto-app",
   },
   {
@@ -57,6 +58,13 @@ export const MernProjectData = [
     techstack: "React,TailwindCSS",
     live: "https://reliable-salmiakki-d86335.netlify.app/",
     github: "https://github.com/anushree1903/To-do-app",
+  },
+  {
+    img: weather,
+    title: "Weather Application ",
+    techstack: "HTML5,CSS3,Javascript,OpenWeather API",
+    live: "https://anushree1903.github.io/Weather-Application/",
+    github: "https://github.com/anushree1903/Weather-Application",
   },
   {
     img: form,
