@@ -5,7 +5,7 @@ import food from "./ProjectImg/food.png";
 import dashboard from "./ProjectImg/dashboard.png";
 import clone from "./ProjectImg/clone.png";
 import todo from "./ProjectImg/todo.png";
-import weather from "./ProjectImg/weather.png";
+import form from "./ProjectImg/form.png";
 
 
 export const MernProjectData = [
@@ -59,11 +59,11 @@ export const MernProjectData = [
     github: "https://github.com/anushree1903/To-do-app",
   },
   {
-    img: weather,
-    title: "Weather Application",
+    img: form,
+    title: "Form Validator",
     techstack: "HTML,CSS,Javascript",
-    live: "https://anushree1903.github.io/netflix-clone/",
-    github: "https://github.com/anushree1903/netflix-clone",
+    live: "https://anushree1903.github.io/Form-Validation/",
+    github: "https://github.com/anushree1903/Form-Validation",
   },
   
 ];
