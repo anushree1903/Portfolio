@@ -16,7 +16,7 @@ const Hero = () => {
           </span>
         </p>
         <p className="text-xl font-semibold relative uppercase">
-          Frontend Web Developer, React JS
+          Frontend Web Developer | UI/UX Designer
         </p>
         <p className="text-lg md:text-xl font-medium relative">
           I'm a Frontend Developer based in India. I have a passion for web
