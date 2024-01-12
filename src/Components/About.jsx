@@ -8,7 +8,7 @@ const About = () => {
           About Me
         </h1>
         <p className="text-md md:text-lg">
-          I am a passionate frontend developer with experience in building
+          I am a passionate front End developer with experience in building
           innovative and scalable web applications.
           <br />
           <br />
