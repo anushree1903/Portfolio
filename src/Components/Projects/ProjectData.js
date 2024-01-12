@@ -12,6 +12,7 @@ import interior from "./ProjectImg/interior.png";
 import coffee from "./ProjectImg/coffee.png";
 import weatherdesign from "./ProjectImg/weatherdesign.png";
 import tour from "./ProjectImg/tour.png";
+import dashboarddesign from "./ProjectImg/dashborddesign.png";
 
 
 
@@ -84,6 +85,13 @@ export const MernProjectData = [
     title: "Responsive Tour Website",
     techstack: "Figma",
     live: "https://www.figma.com/proto/cNO0UGQSvsCR8eckT7qTun/tour-website?page-id=0%3A1&type=design&node-id=112-10289&viewport=-618%2C-1585%2C0.31&t=QyvDPjJch81HoVGg-1&scaling=min-zoom&mode=design"
+    ,
+  },
+  {
+    img: dashboarddesign,
+    title: "Admin Dashboard",
+    techstack: "Figma",
+    live: "https://www.figma.com/proto/QzZBsDPYqIWa5mm0imMzcg/internship?page-id=0%3A1&type=design&node-id=1-2&viewport=545%2C155%2C0.31&t=nMcqQcS05hwEk6ML-1&scaling=scale-down&starting-point-node-id=1%3A2&mode=design"
     ,
   },
   {
