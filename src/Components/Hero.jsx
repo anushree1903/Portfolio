@@ -1,4 +1,5 @@
 import PPic from "../assets/anu.png";
+import { motion } from 'framer-motion';
 import { Button } from "@material-tailwind/react";
 import { Link } from "react-router-dom";
 import { FaUserTie } from "react-icons/fa";
