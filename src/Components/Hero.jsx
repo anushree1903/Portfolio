@@ -36,7 +36,7 @@ const Hero = () => {
             </Button>
           </Link>
           <Link
-            to="https://drive.google.com/file/d/1K5_q_qmh-FuyzKQhBxdOnR-5EdxQZlT4/view?usp=sharing"
+            to="https://drive.google.com/file/d/1nBM1KX1z5tcsQF2nEJESXv8uvq9sQRAm/view?usp=sharing"
             target="_blank"
           >
             <Button
