@@ -1,4 +1,4 @@
-import beats from "./ProjectImg/beats.png";
+
 import Eshop from "./ProjectImg/Eshop.png";
 import Crypto from "./ProjectImg/Crypto.png";
 import food from "./ProjectImg/food.png";
@@ -17,13 +17,7 @@ import dashboarddesign from "./ProjectImg/dashborddesign.png";
 
 
 export const MernProjectData = [
-  {
-    img: beats,
-    title: "Beats[Music App]",
-    techstack: "React, Redux, TailwindCSS",
-    live: "https://boisterous-rabanadas-0983a5.netlify.app/",
-    github: "https://github.com/anushree1903/Beats",
-  },
+
   {
     img: Eshop,
     title: "E-Shop",
