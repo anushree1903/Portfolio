@@ -8,7 +8,7 @@ import {
   Typography,
   Avatar,
 } from "@material-tailwind/react";
-
+import company from "../Experience/images/company.png"
 const WorkExp = () => {
   return (
     <div className="max-w-[32rem] flex justify-center items-center mx-auto">
@@ -20,7 +20,7 @@ const WorkExp = () => {
               <a href="https://samarthainfo.com/" target="_blank">
                 <Avatar
                   size="xl"
-                  src="https://media.licdn.com/dms/image/C510BAQEy6hMwGS_OOw/company-logo_200_200/0/1631382483437?e=1712793600&v=beta&t=uvHA_G-VQ3XMMCclUfE2GZISq_4NSRu8JDF0yiXPIPg"
+                  src={company}
                   alt="user 1"
                 />
               </a>

@@ -1,10 +1,18 @@
 export const FrontendSkills = [
   {
+    name: "Nextjs",
+    icon: "https://www.svgrepo.com/show/368858/nextjs.svg",
+  },
+  {
+    name: "Typecsript",
+    icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png",
+  },
+  {
     name: "React",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
   },
   {
-    name: "Redux",
+    name: "Redux Toolkit",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg",
   },
   {
@@ -21,7 +29,7 @@ export const FrontendSkills = [
   },
   {
     name: "Tailwind CSS",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
+    icon: "https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp",
   },
   {
     name: "Figma",
