@@ -17,13 +17,13 @@ const WorkExp = () => {
           <TimelineConnector />
           <TimelineHeader>
             <TimelineIcon className="p-0 hover:scale-105 duration-200">
-              <a href="https://samarthainfo.com/" target="_blank">
+             
                 <Avatar
                   size="xl"
                   src={company}
                   alt="user 1"
                 />
-              </a>
+             
             </TimelineIcon>
             <div className="flex flex-col">
               <Typography variant="h5" color="blue-gray">
