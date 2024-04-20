@@ -6,11 +6,6 @@ import dashboard from "./ProjectImg/dashboard.png";
 import Pig from "./ProjectImg/Pig.png";
 
 
-
-
-
-
-
 export const MernProjectData = [
   {
     img: Weather,
