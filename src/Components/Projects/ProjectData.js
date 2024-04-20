@@ -1,4 +1,4 @@
-import Weather from "./ProjectImg/Weather.png";
+import weather from "./ProjectImg/weatherImg.png"
 import Eshop from "./ProjectImg/Eshop.png";
 import Crypto from "./ProjectImg/Crypto.png";
 import food from "./ProjectImg/food.png";
@@ -8,7 +8,7 @@ import Pig from "./ProjectImg/Pig.png";
 
 export const MernProjectData = [
   {
-    img: Weather,
+    img: weather,
     title: "Weather App",
     techstack: "Nextjs, Typescript, ShadCN, TailwindCSS",
     live: "https://weather-app-teal-two-41.vercel.app/",
