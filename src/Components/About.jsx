@@ -1,4 +1,4 @@
-import React from "react";
+
 
 const About = () => {
   return (
@@ -8,21 +8,19 @@ const About = () => {
           About Me
         </h1>
         <p className="text-md md:text-lg">
-          I am a passionate front End developer and Web Designer with experience in building
-          innovative and scalable web applications.
+         I am a passionate <span className="font-bold text-indigo-500">UI/UX Designer</span>  with a Bachelor of Engineering in Computer Engineering from K.S.Institute of Technology, Bangalore.  
           <br />
           <br />
-          My educational background includes a Bachelor of Engineering degree in
-          Computer Engineering from K.S.Institute of Technology
-        , Bangalore.
+          I have gained valuable experience through internships at <span className="font-bold text-indigo-500">Samartha Info Solutions</span> and <span className="font-bold text-indigo-500">Brihat InfoTech Private Limited.</span>
           <br />
-          <br />I have experience working as a
-          <span className=" font-semibold mx-2 text-indigo-700 decoration-indigo-600">
-            Frontend Developer Intern
-          </span>
-          at Samartha info solutions where I led the design initiative for a sophisticated User Dashboard based on IoT, utilizing Figma for the design process. My focus was on prioritizing user experience, resulting in a clean and aesthetically pleasing interface. The implementation involved engineering a responsive Analytics Dashboard for an IoT platform using ReactJS and TailwindCSS. To ensure a seamless front-end experience, I incorporated various UI libraries. For analytical representations, I utilized ChartJS, creating visually informative data displays. Additionally, I employed Leaflet.js to map active IoT devices, offering valuable geographical insights into their locations. This comprehensive approach aimed to deliver a user-centric and visually compelling solution for effective IoT device management.
-          <br />
-          
+          <br />These opportunities have allowed me to develop and refine my skills in creating innovative and user-centric digital experiences.
+          My hands-on experience includes proficiency in Figma for designing interfaces, creating prototypes, and developing design systems.
+          I have expertise in designing responsive interfaces, user-friendly dashboards, and implementing cohesive design systems.
+          Throughout my internships, I've demonstrated a keen eye for design, a strong understanding of user-centered design principles,
+          and the ability to translate complex requirements into intuitive, visually appealing interfaces. My work has consistently focused on enhancing user experience,
+          improving engagement metrics, and reducing user errors through thoughtful design solutions.
+          This experience has equipped me with a solid foundation in UI/UX design principles and practices, as well as
+          practical skills in industry-standard tools and methodologies, preparing me for challenging roles in the field of digital design.
         </p>
       </div>
     </div>

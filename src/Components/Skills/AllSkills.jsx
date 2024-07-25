@@ -1,4 +1,4 @@
-import { FrontendSkills, ToolSkills } from "./SkillsData";
+import { ToolSkills } from "./SkillsData";
 
 function SkillCategory({ skills }) {
   return (
@@ -14,11 +14,6 @@ function SkillCategory({ skills }) {
     </div>
   );
 }
-
-export function Frontend() {
-  return <SkillCategory skills={FrontendSkills} />;
-}
-
 
 export function Tools() {
   return <SkillCategory skills={ToolSkills} />;

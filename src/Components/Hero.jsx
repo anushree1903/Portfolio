@@ -1,5 +1,4 @@
-import PPic from "../assets/anu.png";
-import { motion } from 'framer-motion';
+import PPic from "../assets/anu.jpg";
 import { Button } from "@material-tailwind/react";
 import { Link } from "react-router-dom";
 import { FaUserTie } from "react-icons/fa";
@@ -16,12 +15,14 @@ const Hero = () => {
             Anushree H
           </span>
         </p>
-        <p className="text-xl font-semibold relative uppercase">
-          Front End Developer | UI/UX Designer
+        <p className="text-2xl font-semibold relative uppercase">
+           UI/UX Designer
         </p>
-        <p className="text-lg md:text-xl font-medium relative">
-          I'm a Frontend Developer based in India. I have a passion for web
-          development and love to create for web apps.
+        <p className="text-lg md:text-md font-medium relative">
+          Imagine a world where each tap, scroll, and click feels like a gentle whisper,
+          effortlessly guiding you through stunning interactions. This is the world I
+          envision creating as a Double Dose UI/UX designer, armed with a Master's in
+          Psychology and a background in Graphic Design.
         </p>
 
         <div className="flex flex-row justify-center md:justify-normal gap-4 md:gap-6 mt-5">
@@ -36,7 +37,7 @@ const Hero = () => {
             </Button>
           </Link>
           <Link
-            to="https://drive.google.com/file/d/1HKX4bhVoLgicqpVX8yqHWix_moq0rjwJ/view?usp=sharing"
+            to="https://drive.google.com/file/d/13AjyVXuJNPod0bj7rZ4fI4TAbMzscaeo/view?usp=sharing"
             target="_blank"
           >
             <Button

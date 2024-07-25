@@ -1,5 +1,5 @@
 
-import { FaGithub } from "react-icons/fa";
+import { FaBehance } from "react-icons/fa";
 import { BiLinkExternal } from "react-icons/bi";
 import { Link } from "react-router-dom";
 import { MernProjectData } from "./ProjectData";
@@ -7,7 +7,7 @@ import { MernProjectData } from "./ProjectData";
 const MernProjects = () => {
   return (
     <div className="flex flex-wrap justify-center gap-10">
-      {MernProjectData.map(({ title, img, live, github, techstack }, index) => (
+      {MernProjectData.map(({ title, img, live, behance }, index) => (
         <div
           key={index}
           className="flex flex-col w-96 gap-2 bg-gray-50 drop-shadow-xl dark:bg-grey-800 rounded-lg p-4"
@@ -28,11 +28,11 @@ const MernProjects = () => {
               </Link>
 
               <Link
-                to={github}
+                to={behance}
                 target="_blank"
                 className="bg-white text-black p-2 rounded-lg hover:bg-black hover:text-white transition-all"
               >
-                <FaGithub size={20} />
+                <FaBehance size={20} />
               </Link>
             </div>
           </div>
@@ -41,10 +41,7 @@ const MernProjects = () => {
             <h3 className="text-xl text-center text-black font-medium">
               {title}
             </h3>
-            <p className="text-sm text-gray-600">
-              <span className="font-medium">Tech Stack:</span>
-              {techstack}
-            </p>
+            
           </div>
         </div>
       ))}

@@ -8,6 +8,7 @@ import {
   Typography,
   Avatar,
 } from "@material-tailwind/react";
+import ksit from "./images/ksit.png"
 
 const Education = () => {
   return (
@@ -19,7 +20,7 @@ const Education = () => {
             <TimelineIcon className="p-0">
               <Avatar
                 size="lg"
-                src="https://www.ksit.ac.in/img/leftlogo.png"
+                src={ksit}
                 alt="user 1"
               />
             </TimelineIcon>
@@ -31,7 +32,7 @@ const Education = () => {
             <Typography color="gray" className="font-semibold text-gray-600">
               Computer Science and Engineering
               <br />
-              Bachelor of Engineering - BE, <br /> 2020 - Present
+              Bachelor of Engineering - BE, <br /> 2020 - 2024
             </Typography>
           </TimelineBody>
         </TimelineItem>
@@ -41,7 +42,7 @@ const Education = () => {
             <TimelineIcon className="p-0">
               <Avatar
                 size="lg"
-                src="https://rnsfgc.edu.in/wp-content/uploads/2020/02/FGCLOGO.png"
+                src="https://www.static-contents.youth4work.com/university/Documents/Colleges/collegeLogo/20230127131629.png?v=20230127131629"
                 alt="user 2"
               />
             </TimelineIcon>

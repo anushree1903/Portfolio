@@ -1,5 +1,6 @@
 import { Tooltip } from "@material-tailwind/react";
 
+
 const Data = [
   {
     link: "https://www.linkedin.com/in/anushree-h-bbb691252/",
@@ -7,8 +8,8 @@ const Data = [
     tooltip: "Connect On Linkedin",
   },
   {
-    link: "https://github.com/anushree1903",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
+    link: "https://www.behance.net/anushreeh1",
+    icon: "https://cdn3.iconfinder.com/data/icons/picons-social/57/77-behance-512.png",
     tooltip: "Connect On Github",
   },
   {

@@ -1,57 +1,45 @@
-import weather from "./ProjectImg/weatherImg.png"
-import Eshop from "./ProjectImg/Eshop.png";
-import Crypto from "./ProjectImg/Crypto.png";
-import food from "./ProjectImg/food.png";
-import dashboard from "./ProjectImg/dashboard.png";
-import Pig from "./ProjectImg/Pig.png";
+import Beauty from "./ProjectImg/Beauty.png"
+import Construction from "./ProjectImg/Construction.png";
+import Learning from "./ProjectImg/Learning.png";
+import email from "./ProjectImg/email.png";
+import Tour from "./ProjectImg/Tour.png";
 
 
 export const MernProjectData = [
   {
-    img: weather,
-    title: "Weather App",
-    techstack: "Nextjs, Typescript, ShadCN, TailwindCSS",
-    live: "https://weather-app-teal-two-41.vercel.app/",
-    github: "https://github.com/anushree1903/Weather-app",
+    img: Beauty,
+    title: "Saloon App",
+    live: "https://www.behance.net/gallery/203792203/Saloon-app",
+    behance: "https://www.behance.net/anushreeh1",
   },
 
   {
-    img: Eshop,
-    title: "E-Shop",
-    techstack: "React, TailwindCSS, Contaxt Api",
+    img: Construction,
+    title: "Construction Site Website",
+    
     live: "https://classy-nougat-474b9c.netlify.app/",
-    github: "https://github.com/anushree1903/E-shop",
+    behance: "https://www.behance.net/anushreeh1",
   },
   {
-    img: Crypto,
-    title: "Crypto-App",
-    techstack: "React, Axios, TailwindCSS",
+    img: Learning,
+    title: "E-Learning Website",
+   
     live: "https://wonderful-crumble-05b236.netlify.app/",
-    github: "https://github.com/anushree1903/My_Crypto-app",
+    behance: "https://www.behance.net/anushreeh1",
   },
   {
-    img: dashboard,
-    title: "Admin Dashboard",
-    techstack: "React,Tremor Components",
+    img: email,
+    title: "Wiiv AI",
+    
     live: "https://thriving-sherbet-fcf3c1.netlify.app/",
-    github: "https://github.com/anushree1903/Dashboard",
+    behance: "https://www.behance.net/anushreeh1",
   },
-  {
-    img: food,
-    title: "Resturant App",
-    techstack: "HTML,CSS,Javascript",
-    live: "https://anushree1903.github.io/Resturant-app/",
-    github: "https://github.com/anushree1903/Resturant-app",
-  },
-  {
-    img: Pig,
-    title: "Pig Game",
-    techstack: "HTML,CSS,Javascript",
-    live: "https://anushree1903.github.io/Pig-Game/",
-    github: "https://github.com/anushree1903/Pig-Game",
+   {
+    img: Tour,
+    title: "Tour Place App",
+    
+    live: "https://thriving-sherbet-fcf3c1.netlify.app/",
+    behance: "https://www.behance.net/anushreeh1",
   },
 
-  
- 
-  
 ];

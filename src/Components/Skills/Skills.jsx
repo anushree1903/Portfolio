@@ -1,17 +1,12 @@
 import React from "react";
-import { Frontend, Tools } from "./AllSkills.jsx";
+import { Tools } from "./AllSkills.jsx";
 
 const skillComponents = {
-  Frontend,
   Tools,
 };
 
 const Skills = () => {
   const data = [
-    {
-      label: "Frontend",
-    },
-   
     {
       label: "Tools",
     },
