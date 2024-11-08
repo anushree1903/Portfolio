@@ -8,10 +8,10 @@ const About = () => {
           About Me
         </h1>
         <p className="text-md md:text-lg">
-         I am a passionate <span className="font-bold text-indigo-500">UI/UX Designer and Graphic Designer</span>  with a Bachelor of Engineering in Computer Engineering from K.S.Institute of Technology, Bangalore.  
+         I am a passionate <span className="font-bold text-indigo-500">UI/UX Designer and Graphic Designer</span> with a Bachelor of Engineering in Computer Engineering from K.S.Institute of Technology, Bangalore.  
           <br />
           <br />
-          I have gained valuable experience through internships at <span className="font-bold text-indigo-500">Samartha Info Solutions</span>, <span className="font-bold text-indigo-500">Brihat InfoTech Private Limited.</span> and am currently working as an intern at <span className="font-bold text-indigo-500">a BrightChamps.</span>
+          I have gained valuable experience through internships at <span className="font-bold text-indigo-500">Samartha Info Solutions</span>, <span className="font-bold text-indigo-500">Brihat InfoTech Private Limited</span> and am currently working as an intern at <span className="font-bold text-indigo-500"> BrightChamps.</span>
           <br />
           <br />These opportunities have allowed me to develop and refine my skills in creating innovative and user-centric digital experiences. My hands-on experience includes proficiency in Figma for designing interfaces, creating prototypes, and developing design systems, along with experience in Photoshop for more detailed graphic work. I have expertise in designing responsive interfaces, user-friendly dashboards, and implementing cohesive design systems.
           Throughout my internships, I've demonstrated a keen eye for design, a strong understanding of user-centered design principles,

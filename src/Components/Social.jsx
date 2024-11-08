@@ -3,24 +3,20 @@ import { Tooltip } from "@material-tailwind/react";
 
 const Data = [
   {
-    link: "https://www.linkedin.com/in/anushree-h-bbb691252/",
+    link: "https://www.linkedin.com/in/anushreeh19/",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg",
     tooltip: "Connect On Linkedin",
   },
   {
-    link: "https://www.behance.net/anushreeh1",
+    link: "https://www.behance.net/anushreeh19",
     icon: "https://cdn3.iconfinder.com/data/icons/picons-social/57/77-behance-512.png",
-    tooltip: "Connect On Github",
+    tooltip: "Connect On Behance",
   },
-  {
-    link: "https://twitter.com/h_anushree1903",
-    icon: "https://cdn.iconscout.com/icon/free/png-512/free-twitter-9420782-7651212.png?f=webp&w=256",
-    tooltip: "Follow On X",
-  },
+ 
   {
     link: "mailto:mailto:anushree9019@gmail.com",
     icon: "https://cdn.iconscout.com/icon/free/png-512/free-mail-1299-1100772.png?f=webp&w=256",
-    tooltip: "Mail Us",
+    tooltip: "Mail Me",
   },
 ];
 
