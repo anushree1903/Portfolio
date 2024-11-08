@@ -5,6 +5,7 @@ import email from "./ProjectImg/email.png";
 import Tour from "./ProjectImg/Tour.png";
 
 
+
 export const MernProjectData = [
   {
     img: Beauty,
@@ -41,5 +42,6 @@ export const MernProjectData = [
     live: "https://thriving-sherbet-fcf3c1.netlify.app/",
     behance: "https://www.behance.net/anushreeh1",
   },
+
 
 ];

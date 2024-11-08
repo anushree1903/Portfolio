@@ -15,8 +15,8 @@ const Hero = () => {
             Anushree H
           </span>
         </p>
-        <p className="text-2xl font-semibold relative uppercase">
-           UI/UX Designer
+        <p className="text-2xl font-semibold relative ">
+           UI/UX Designer and Graphic Designer
         </p>
         <p className="text-lg md:text-md font-medium relative">
           Imagine a world where each tap, scroll, and click feels like a gentle whisper,
