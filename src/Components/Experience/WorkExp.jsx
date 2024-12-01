@@ -32,7 +32,7 @@ const WorkExp = () => {
               Brightchamps
               </Typography>
               <Typography className=" my-2" color="gray">
-              Graphic Designer Intern <br /> Aug 2024 - Nov 2023
+              Associate Graphic Designer <br /> Aug 2024 - Present
               </Typography>
             </div>
           </TimelineHeader>
